@@ -37,7 +37,7 @@ I worked with event delegation to handle interactions on dynamically rendered el
 
 ## Live Demo
 
-Coming soon.
+https://twitter-clone-tugce-dev.netlify.app/
 
 ## Project Background
 
