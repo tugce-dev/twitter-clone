@@ -1,54 +1,53 @@
 export const tweetsData = [   
     {
-        handle: `@TrollBot66756542 💎`,
+        handle: `@BugHunter404 🐛`,
         profilePic: `images/troll.jpg`,
-        likes: 27,
-        retweets: 10,
-        tweetText: `Buy Bitcoin, ETH Make 💰💰💰 low low prices. 
-            Guaranteed return on investment. HMU DMs open!!`,
+        likes: 42,
+        retweets: 8,
+        tweetText: `Fixed a bug after 3 hours. I have no idea why the fix works. I'm not touching anything ever again.`,
         replies: [],
         isLiked: false,
         isRetweeted: false,
         uuid: '4b161eee-c0f5-4545-9c4b-8562944223ee',
     },    
     {
-        handle: `@Elon ✅`,
+        handle: `@CodeAfterCoffee ☕`,
         profilePic: `images/musk.png`,
-        likes: 6500,
-        retweets: 234,
-        tweetText: `I need volunteers for a one-way mission to Mars 🪐. No experience necessary🚀`,
+        likes: 184,
+        retweets: 31,
+        tweetText: `That moment when your code finally works and you suddenly feel qualified to rebuild the entire internet.`,
         replies: [
-                  {
-                handle: `@TomCruise ✅`,
+            {
+                handle: `@MergeConflict`,
                 profilePic: `images/tcruise.png`,
-                tweetText: `Yes! Sign me up! 😎🛩`,
+                tweetText: `Give it ten minutes. The next error is already loading 😂`,
             },
-                  {
-                handle: `@ChuckNorris ✅`,
+            {
+                handle: `@GitCommitQueen 👑`,
                 profilePic: `images/chucknorris.jpeg`,
-                tweetText: `I went last year😴`,
+                tweetText: `Commit it immediately before the code changes its mind.`,
             },
         ],
         isLiked: false,
         isRetweeted: false,
         uuid: '3c23454ee-c0f5-9g9g-9c4b-77835tgs2',
     },
-        {
-        handle: `@NoobCoder12`,
+    {
+        handle: `@JuniorDevEra`,
         profilePic: `images/flower.png`,
-        likes: 10,
-        retweets: 3,
-        tweetText: `Are you a coder if you only know HTML?`,
+        likes: 73,
+        retweets: 14,
+        tweetText: `Learning JavaScript is basically saying "ohhh, now I get it" and being confused again five minutes later.`,
         replies: [
             {
-                handle: `@StackOverflower ☣️`,
+                handle: `@ConsoleLogger`,
                 profilePic: `images/overflow.png`,
-                tweetText: `No. Onviosuly not. Go get a job in McDonald's.`,
+                tweetText: `console.log() has been my most loyal coworker.`,
             },
             {
-                handle: `@YummyCoder64`,
+                handle: `@StillDebugging`,
                 profilePic: `images/love.png`,
-                tweetText: `You are wonderful just as you are! ❤️`,
+                tweetText: `Nothing builds character like an undefined error at 2 AM 😭`,
             },
         ],
         isLiked: false,
